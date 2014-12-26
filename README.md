@@ -1,6 +1,7 @@
 TiResources
 ===========
 
+闭包：解决js内存回收问题：http://jibbering.com/faq/notes/closures/
 
 http://www.tidev.io/resources/
 
